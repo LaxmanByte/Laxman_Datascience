@@ -1,0 +1,9 @@
+
+
+We will do use various Algorithms to predict the result and see which one suits best and then we will use Auto ML Library EVAL ML to predict the results.
+We will do the following things:
+Data Analysis
+Feature Engineering
+Satandardization
+Model Building
+Predictions
